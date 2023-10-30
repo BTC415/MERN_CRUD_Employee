@@ -17,7 +17,6 @@ First, clone the project and open it with Visual Studio Code:
 git clone https://github.com/Topcoder415/MERN_CRUD_Employee.git
 cd MERN_CRUD_Employee
 
-code .
 ```
 
 Then, create a .env file in the root of server folder and configure the following MongoDB_Local environment.
