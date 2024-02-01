@@ -14,7 +14,7 @@ This MERN_CRUD operation project is for beginners to get the general knowledge o
 First, clone the project and open it with Visual Studio Code:
 
 ```bash
-git clone https://github.com/Topcoder415/MERN_CRUD_Employee.git
+git clone https://github.com/BTC415/MERN_CRUD_Employee.git
 cd MERN_CRUD_Employee
 
 ```
